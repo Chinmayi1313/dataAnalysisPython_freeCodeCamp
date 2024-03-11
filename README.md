@@ -1,4 +1,4 @@
-###Data Analysis with Python
+Data Analysis with Python
 
 Here, you'll find my personal solutions to the projects associated with the Data Analysis with Python Certification from freeCodeCamp:
 1. Mean-Variance-Standard Deviation Calculator
